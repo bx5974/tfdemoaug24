@@ -1,5 +1,5 @@
 resource "random_string" "datagen" {
-	length = 36
+	length = 63
 }
 
 resource "random_integer" "idnum" {
